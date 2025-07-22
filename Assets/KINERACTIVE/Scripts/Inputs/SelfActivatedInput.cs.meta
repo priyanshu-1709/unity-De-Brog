@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc837b1c09bd24f489481b78299e4075
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 806c00abbc1538a4797e013bcf923120, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Inputs/SelfActivatedInput.cs
+  uploadId: 386978

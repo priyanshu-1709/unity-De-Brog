@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e0db269ed71b1c8448aa3f3ccaa3271f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/_Config/Anims/PlayerAnims.cs
+  uploadId: 386978

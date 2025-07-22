@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8a0dcc7b3678b73459d218077a5c4235
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: e297178b464d287419215e9ac6e4887b, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Utility/PositionSway.cs
+  uploadId: 386978

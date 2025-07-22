@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61273b81fb0a61e489b989fc836774e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: d40ed6501d5269f4688d3d936f81e237, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Touchables/MoverAnalog.cs
+  uploadId: 386978

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a55aaf385389a04c8bcaf964d560442
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 5a44b69b059d820409195f51a27750fa, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Inputs/AxisInput.cs
+  uploadId: 386978

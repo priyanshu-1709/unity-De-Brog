@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fe1bffe76ce98a7499f6030d5c93adce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Editor/CustomViewTouchableButton.cs
+  uploadId: 386978

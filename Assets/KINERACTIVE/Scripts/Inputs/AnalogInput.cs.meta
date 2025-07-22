@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9c2742759a92ab4888b340ffab3023b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7591fff21651b1948bdccc680874ce5e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Inputs/AnalogInput.cs
+  uploadId: 386978

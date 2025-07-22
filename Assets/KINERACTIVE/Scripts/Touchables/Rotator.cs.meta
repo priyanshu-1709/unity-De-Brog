@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ab8b63a3f18c38e46a10baeda0b30f08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 31162df0bb632794992d472ee3c6e38e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Touchables/Rotator.cs
+  uploadId: 386978

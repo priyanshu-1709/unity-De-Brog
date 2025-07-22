@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 60b54a188b46d0a4cb096fc231f77ad4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Controls/FPS/Gun.cs
+  uploadId: 386978

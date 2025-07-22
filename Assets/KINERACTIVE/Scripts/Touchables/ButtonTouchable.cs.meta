@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61fafdc14e88c8548ae56b7bc33b32c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: f5345b585a8b6d841b1330fcad517ac2, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Touchables/ButtonTouchable.cs
+  uploadId: 386978

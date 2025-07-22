@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb6d7c5f95b1d554ea7028700acbaefc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Materials/Gray.mat
+  uploadId: 386978

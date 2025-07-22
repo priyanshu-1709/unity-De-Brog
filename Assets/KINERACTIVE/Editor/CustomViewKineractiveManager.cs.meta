@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6163e83af83680a49972fac99082b0e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Editor/CustomViewKineractiveManager.cs
+  uploadId: 386978

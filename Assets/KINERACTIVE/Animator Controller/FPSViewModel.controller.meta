@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e98d6d41154ead84ba9074f611797fb4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Animator Controller/FPSViewModel.controller
+  uploadId: 386978

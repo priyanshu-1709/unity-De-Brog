@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb4a4df835385be40b01bd48288a2901
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 2cb96dc1a0774cc40bd543a5add16dc1, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Utility/PositionSwapper.cs
+  uploadId: 386978

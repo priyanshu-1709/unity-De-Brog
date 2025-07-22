@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64cf564af7b7ebd4dac39a009f2a2622
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Editor/CustomViewTouchableRotatorAnalog.cs
+  uploadId: 386978

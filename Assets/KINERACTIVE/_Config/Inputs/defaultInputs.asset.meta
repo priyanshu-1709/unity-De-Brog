@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d10617ec478cb14e8a6d044f7794265
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/_Config/Inputs/defaultInputs.asset
+  uploadId: 386978

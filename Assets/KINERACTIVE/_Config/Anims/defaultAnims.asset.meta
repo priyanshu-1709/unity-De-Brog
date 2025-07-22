@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a67df53039717a44c8282c45971183f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/_Config/Anims/defaultAnims.asset
+  uploadId: 386978

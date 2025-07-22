@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 12ec42cf949168447aa77a03462adff2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 617c4a74bf759404799f98f210acd1e0, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Utility/InstructionChanger.cs
+  uploadId: 386978

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 486c14e923712dc4aa3ed3c6947bb58e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 733574b6c8ef2fe49a6264d5376947cb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Entities/Ent_AudioClipPlayer.cs
+  uploadId: 386978

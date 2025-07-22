@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33fa1b260f4c0e04a8d3ecf34d0a1400
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 23c85e3053f034f488cfacba9a304551, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Prerequisite/IKControl.cs
+  uploadId: 386978

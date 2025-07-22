@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0574a504c346e7d49bae65c03ecd98ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 20d4c1b15e58c074fb45ad44b19b4fe1, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Prerequisite/KineractiveManager.cs
+  uploadId: 386978

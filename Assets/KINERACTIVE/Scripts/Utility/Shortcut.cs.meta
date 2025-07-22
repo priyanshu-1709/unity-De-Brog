@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f707ba487f20df48af8a170ff1e4751
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: a17acd4f3550d084a99467628851057a, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Utility/Shortcut.cs
+  uploadId: 386978

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3bb0f4fabdb63814da7aefe5f9a37f0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: b5919444e35c55446b7dabde64d3403d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Utility/ItemGrabber.cs
+  uploadId: 386978

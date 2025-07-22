@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2a23a82d0a4d93f49b80712f89443619
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Controls/FPS/Player_Movement.cs
+  uploadId: 386978

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9d915313bc45e34ea72d87f5c0a9cbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 29123a553b45242469ac7413244d27d5, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153144
+  packageName: KINERACTIVE
+  packageVersion: 1.11
+  assetPath: Assets/KINERACTIVE/Scripts/Inputs/KeycodeInput.cs
+  uploadId: 386978
